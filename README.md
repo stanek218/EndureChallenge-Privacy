@@ -1,0 +1,2 @@
+# EndureChallenge-Privacy
+Privacy Policy
