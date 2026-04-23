@@ -1,2 +1,2 @@
-# EndureChallenge-Privacy
+# Endure: Challenge-Privacy
 Privacy Policy
